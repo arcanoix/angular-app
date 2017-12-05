@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Mi primera aplicacion con Angular';
+  email = 'gustavoh.2312@gmail.com';
+  website = 'http://thavoo.github.io/Portafolio';
+  hobbies = ['Programar', 'Musica', 'Cine'];
 }
